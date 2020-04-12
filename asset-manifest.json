@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DTD-Demo/static/css/main.4963eaad.chunk.css",
+    "main.js": "/DTD-Demo/static/js/main.c56dde66.chunk.js",
+    "main.js.map": "/DTD-Demo/static/js/main.c56dde66.chunk.js.map",
+    "runtime-main.js": "/DTD-Demo/static/js/runtime-main.d6fbcb4d.js",
+    "runtime-main.js.map": "/DTD-Demo/static/js/runtime-main.d6fbcb4d.js.map",
+    "static/css/2.df61ddf0.chunk.css": "/DTD-Demo/static/css/2.df61ddf0.chunk.css",
+    "static/js/2.c109c456.chunk.js": "/DTD-Demo/static/js/2.c109c456.chunk.js",
+    "static/js/2.c109c456.chunk.js.map": "/DTD-Demo/static/js/2.c109c456.chunk.js.map",
+    "index.html": "/DTD-Demo/index.html",
+    "precache-manifest.170ebeaa7836275f1a176d090287d764.js": "/DTD-Demo/precache-manifest.170ebeaa7836275f1a176d090287d764.js",
+    "service-worker.js": "/DTD-Demo/service-worker.js",
+    "static/css/2.df61ddf0.chunk.css.map": "/DTD-Demo/static/css/2.df61ddf0.chunk.css.map",
+    "static/css/main.4963eaad.chunk.css.map": "/DTD-Demo/static/css/main.4963eaad.chunk.css.map",
+    "static/js/2.c109c456.chunk.js.LICENSE.txt": "/DTD-Demo/static/js/2.c109c456.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/DTD-Demo/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6fbcb4d.js",
+    "static/css/2.df61ddf0.chunk.css",
+    "static/js/2.c109c456.chunk.js",
+    "static/css/main.4963eaad.chunk.css",
+    "static/js/main.c56dde66.chunk.js"
+  ]
+}
